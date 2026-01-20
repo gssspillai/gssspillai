@@ -21,7 +21,7 @@ gssspillai@gmail.com
 
 ### 🏢 Previous Experience
 - **Standard Chartered GBS** – CPBB (Consumer, Private & Business Banking) projects, robotic automation for banking support  
-- **ARS** – Scheldt Radar Network & Air Traffic Control projects  
+- **ARS** – Scheldt Radar Network & Vessel Traffic Service(VTS) projects  
 - **Nissan Digital (Brazil)** – Vendor mobile applications  
 - Other projects spanning enterprise systems, automation, and scalable solutions
 

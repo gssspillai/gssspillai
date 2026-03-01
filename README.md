@@ -28,13 +28,10 @@ gssspillai@gmail.com
 ---
 
 ### 📊 GitHub Stats
-![Sarath's GitHub stats](https://github-readme-stats.vercel.app/api?username=gssspillai&show_icons=true&theme=radical)
+![Stats](./profile/stats.svg)
 
 ### 📈 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gssspillai&layout=compact&theme=radical)
-
-### 🏆 Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gssspillai&theme=onedark)
+![Top Languages](./profile/top-langs.svg)
 
 ---
 

@@ -9,7 +9,7 @@ Java | Spring Boot | Microservices | ReactJS | Go | Kubernetes | Vector Database
 Contributing to IBM Software Hub (formerly Cloud Pak for Data)
 
 🌱 **Learning & Interests:**  
-Go | Kubernetes | Artificial Intelligence | Vector Database Theory
+Go | Kubernetes | Artificial Intelligence | Vector Database
 
 🤝 **Community:**  
 Occasionally participate in Kochi Java Users Group and local AI meetups
